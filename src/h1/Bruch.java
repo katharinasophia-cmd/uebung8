@@ -63,12 +63,8 @@ public class Bruch {
 		}
 		else {
 			System.out.println("false");
-		return false;
+		    return false;
 		}
-	}
-	
-	
-	
-	
+	}	
 
 }
