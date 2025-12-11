@@ -4,7 +4,7 @@ public class SimpleList {
 
 	// Attribute:
 
-	Node head = new Node(0);
+	Node head = new Node(Integer.MIN_VALUE);
 
 	// Konstruktoren:
 
